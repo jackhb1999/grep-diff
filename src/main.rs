@@ -59,7 +59,7 @@ fn main() {
         }
 
     }
-    
+
     if let Some(_) = matches.subcommand_matches("diff") {
         println!("diff")
     }
